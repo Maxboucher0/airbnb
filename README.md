@@ -7,7 +7,7 @@ This repository contains the code and documentation for a machine learning proje
 
 ## Project Structure
 
-- **`data/`**: This directory contains the dataset used for training and evaluating the model. The dataset, sourced from Kaggle, comprises 7,756 user sessions from 630 unique visitors, with information such as visitor IDs, session IDs, session counts, and activities like messaging, searching, and booking requests.
+- **`data/`**: This directory contains the dataset used for training and evaluating the model. The dataset, sourced from Kaggle, comprises 7,756 user sessions from 630 unique visitors, with information such as visitor IDs, session IDs, session counts, and activities like messaging, searching, and booking requests. Here is the link to the data on Kaggle: https://www.kaggle.com/datasets/heeraldedhia/airbnb-user-pathways/data
 
 - **`report/`**: Jupyter notebooks detailing the step-by-step process of data exploration, preprocessing, and model development. 
 
